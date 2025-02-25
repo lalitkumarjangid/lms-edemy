@@ -96,4 +96,4 @@ This template uses the following Vite plugins:
 
 ## Contributors
 
-[Contributor information]
+### Lalit Kumar Jangid
