@@ -34,7 +34,7 @@ LMS-Edemy is a Learning Management System built with React and Vite. This applic
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lalitkumarjangid/lms-edemy.git
    cd lms-edemy
    ```
 
